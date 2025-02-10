@@ -1,4 +1,4 @@
-# Credit_Card_Dashboard
+# Credit Card Dashboard
 
 ## Overview
 This Power BI project is a Credit Card Transaction Report that provides a detailed analysis of revenue, transaction volumes, and customer segments based on various attributes like expenditure categories, education levels, job types, card categories, and payment modes.
